@@ -1,3 +1,4 @@
-def call () {
-  echo "Hello from k8s agent
+def call() {
+    echo "Hello from k8s agent"
 }
+
